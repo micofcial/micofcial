@@ -1,6 +1,6 @@
-## Olá eu sou o Mickael Cypriano, programador front-end em progresso !
+## Olá eu sou o Mickael Cypriano, programador front-end !
 <div align="center">
-  <a href="https://github.com/MickaelZ7">
+  <a href="https://github.com/micofcial">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MickaelZ7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelZ7&layout=compact&langs_count=7&theme=dark"/>
 </div>
